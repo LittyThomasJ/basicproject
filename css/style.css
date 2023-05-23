@@ -1,0 +1,36 @@
+.header
+{
+background-color:purple;
+padding:40px;
+bottom:0;
+width:100%;
+}
+.header a
+{
+text-decoration:none;
+background-color:white;
+padding:10px;
+color:black;
+border-radius:6px;
+}
+.header a:hover
+{
+padding:25px;
+color:red;
+background-color:pink;
+
+}
+.header a.active
+{
+background-color:skyblue;
+padding:30px;
+}
+.footer
+{
+background-color:purple;
+padding:40px;
+bottom:0;
+width:100%;
+position:fixed;
+
+}
